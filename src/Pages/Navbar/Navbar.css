@@ -1,0 +1,24 @@
+.nav-link{
+   background-color:skyblue;
+}
+
+
+
+.navbar{
+    
+    text-decoration: none;
+    color:black;
+    margin-right: 60px;
+    font-size: 20px;
+   
+ 
+}
+.input{
+    background-color:rgb(240, 229, 225);
+    padding: 10px;
+    border-radius: 10px;
+    /* cursor: pointer; */
+
+}
+
+

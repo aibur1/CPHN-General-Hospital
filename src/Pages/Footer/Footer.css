@@ -1,0 +1,15 @@
+.footer-bg{
+    background-color:rgb(55, 54, 53);
+}
+
+.footer div{
+   margin-right: 120px;
+   
+}
+
+.footer div p{
+    font-size: 20px;
+}
+.footer-icon{
+   color:rgb(175, 143, 59);
+}

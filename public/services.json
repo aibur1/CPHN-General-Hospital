@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Anesthesiologists",
+        "img": "https://www.businessinsider.in/thumb/msid-76520726,width-700,height-525,imgsize-40417/1-anesthesiologists.jpg",
+        "description": "Anesthesiologists care for patients undergoing surgery by providing them with anesthesia."
+    },
+    {
+        "id": 2,
+        "name":"Surgeons",
+        "img": "https://www.businessinsider.in/thumb/msid-76520732,width-700,height-525,imgsize-403268/2-surgeons.jpg",
+        "description": "Surgeons manage patients' diseases, injuries, and deformities using surgical methods."
+    },
+    {
+        "id": 3,
+        "name": "Oral and maxillofacial surgeons",
+        "img": "https://www.businessinsider.in/thumb/msid-76520739,width-700,height-525,imgsize-1374632/3-oral-and-maxillofacial-surgeons.jpg",
+        "description": "Oral and maxillofacial surgeons provide surgery on patients' mouths, jaws, and faces."
+    },
+    {
+        "id": 4,
+        "name": "Obstetricians and gynecologists",
+        "img":"https://www.businessinsider.in/thumb/msid-76520747,width-700,height-525,imgsize-978532/4-obstetricians-and-gynecologists.jpg",
+        "description": "Obstetricians and gynecologists are physicians that care for women's reproductive systems."
+    },
+    {
+        "id": 5,
+        "name":"Orthodontists",
+        "img": "https://www.businessinsider.in/thumb/msid-76520753,width-700,height-525,imgsize-460398/5-orthodontists.jpg",
+        "description": "Orthodontists help straighten patients' smiles using pressure from braces and other tools."
+    },
+    {
+        "id": 6,
+        "name": "Psychiatrists",
+        "img": "https://www.businessinsider.in/thumb/msid-76520764,width-700,height-525,imgsize-199508/7-psychiatrists.jpg",
+        "description": "Psychiatrists are physicians that treat patients with mental health illnesses."
+    },
+    {
+        "id": 7,
+        "name": "Physicians (all other) and ophthalmologists",
+        "img": "https://www.businessinsider.in/thumb/msid-76520772,width-700,height-525,imgsize-400492/9-physicians-all-other-and-ophthalmologists.jpg",
+        "description": "All otherphysicians are those not listed separately in the U.S. Bureau of Labor Statistics."
+    },
+    {
+        "id": 8,
+        "name": "General pediatricians",
+        "img": "https://www.businessinsider.in/thumb/msid-76520778,width-700,height-525,imgsize-1368601/11-general-pediatricians.jpg",
+        "description": "Pediatricians prevent, diagnose, and treat children's diseases and injuries."
+    },
+    {
+        "id": 9,
+        "name": "Optometrists",
+        "img": "https://www.businessinsider.in/thumb/msid-76520784,width-700,height-525,imgsize-544987/15-optometrists.jpg",
+        "description": "Optometrists treat diseases, injuries, and other disorders related to patients' eyes."
+    }
+]

@@ -1,0 +1,18 @@
+.camp{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap:15px;
+   
+   
+}
+.height{
+    height: 500px;
+    padding-top: 100px;
+}
+
+.camp div{
+    background-color: rgb(232, 215, 215);
+}
+.camp img{
+    padding-top: 10px;
+}

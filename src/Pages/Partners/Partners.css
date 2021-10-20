@@ -1,0 +1,14 @@
+.partner-bg{
+    background-color: rgb(214, 238, 238);
+  height: 500px;
+  padding:100px
+  
+}
+.partners-info{
+  
+ display: flex;
+ justify-content:space-evenly;
+}
+.last-child{
+  /* height: 87px; */
+}
